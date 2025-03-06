@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | Front-End Enthusiast | Tech Mentor**  
 🔹 Passionate about building scalable, user-friendly web & mobile applications  
 🔹 Experienced in **React.js, Node.js, TypeScript, C++ & GraphQL**  
-🔹 Love working with **MERN/PERN stacks, databases, and DevOps**  
+🔹 Love working with **MERN stacks, databases, and DevOps**  
 
 ## 🔥 **About Me**
 - 💻 Currently a **Front-End Developer** at Leafstash, working on **React Native & Angular** for mobile & web apps.  
