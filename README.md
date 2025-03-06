@@ -39,7 +39,10 @@
 ### **📊 AI-Powered Chat App**  
 > **Tech:** SwiftUI, Google Gemini API  
 > - Built an AI-driven chat application with a seamless UI  
-> - Integrated an interactive simulator for testing & debugging  
+> - Integrated an interactive simulator for testing & debugging
+
+🔗 **GitHub Repository:** [Chat-With-AI](https://github.com/amanpreet8507/Chat-With-AI)
+
 
 ### **📦 InStock - Inventory Management System**  
 > **Tech:** React.js, Node.js, MySQL, Express  
