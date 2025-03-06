@@ -7,7 +7,7 @@
 
 ## 🔥 **About Me**
 - 💻 Currently a **Front-End Developer** at Leafstash, working on **React Native & Angular** for mobile & web apps.  
-- 📦 Have experience in **e-commerce development** (Shopify, Amazon API, Inventory Management).  
+- 📦 Have experience in **web development** (Leafstash, BrainStation).  
 - 🔬 Mentor & Tutor at **Vancouver Community College**, teaching **C++ & Web Development**.  
 - 🌱 Exploring **AI-driven applications & analytics tools** using modern frameworks.  
 
