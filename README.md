@@ -49,10 +49,17 @@
 > - Developed a full-stack inventory tracking system  
 > - Implemented role-based authentication & real-time updates  
 
+🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreet8507/instock-frontend)
+🔗 **GitHub Repository:** [InStock Backend](https://github.com/amanpreet8507/instock-backend)
+
+
 ### **🌍 COVID-19 Tracker**  
 > **Tech:** JavaScript, GraphQL, ApexCharts  
 > - Displayed real-time COVID-19 statistics from APIs  
 > - Built interactive visualizations for trend analysis  
+
+🔗 **GitHub Repository:** [COVID-19 Tracker](https://github.com/amanpreet8507/Covid_Tracker_App)
+
 
 ---
 
