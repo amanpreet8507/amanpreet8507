@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Amanpreet Kaur!  
 
-🚀 **Full-Stack Developer | Front-End Enthusiast | Tech Mentor**  
+🚀 **Application Developer | Tech Mentor**  
 🔹 Passionate about building scalable, user-friendly web & mobile applications  
-🔹 Experienced in **React.js, Node.js, TypeScript, C++ & GraphQL**  
+🔹 Experienced in **React Native, Node.js, TypeScript, Kotlin, C++ & GraphQL**  
 🔹 Love working with **MERN stacks, databases, and DevOps**  
 
 ## 🔥 **About Me**
-- 💻 Currently a **Front-End Developer** at Leafstash, working on **React Native & Angular** for mobile & web apps.  
-- 📦 Have experience in **web development** (Leafstash, BrainStation).  
-- 🔬 Mentor & Tutor at **Vancouver Community College**, teaching **C++ & Web Development**.  
+- 💻 Currently working as **Android Developer** for Stockcheck, working with **Kotlin & Node.js**  
+- 📦 Have experience in **appication development** (Leafstash, BrainStation).  
+- 🔬 Mentor & Tutor at **Vancouver Community College**, teaching **C++ & Application Development**.  
 - 🌱 Exploring **AI-driven applications & analytics tools** using modern frameworks.  
 
 ## 🛠 **Tech Stack & Skills**
@@ -38,6 +38,13 @@
 ---
 
 ## 🚀 **Projects**
+### **📊 Leafstash**  
+> **Tech:** React Native  
+> - Drove full-lifecycle development using TypeScript, Angular, GraphQL, React Native.  
+> - Collaborated with designers and product managers to develop a user-friendly mobile application.
+
+🔗 **Application Link:** [Leafstash](https://leafstash.eco/)
+
 ### **📊 AI-Powered Chat App**  
 > **Tech:** SwiftUI, Google Gemini API  
 > - Built an AI-driven chat application with a seamless UI  
@@ -46,13 +53,12 @@
 🔗 **GitHub Repository:** [Chat-With-AI](https://github.com/amanpreet8507/Chat-With-AI)
 
 
-### **📦 InStock - Inventory Management System**  
-> **Tech:** React.js, Node.js, MySQL, Express  
-> - Developed a full-stack inventory tracking system  
+### **📦 StockCheck - Inventory Management System**  
+> **Tech:** Kotlin, Node.js, Express, Git, Android Studio, MongoDB  
+> - Developed a full-stack inventory tracking application  
 > - Implemented role-based authentication & real-time updates  
 
-🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreet8507/instock-frontend)
-🔗 **GitHub Repository:** [InStock Backend](https://github.com/amanpreet8507/instock-backend)
+🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreetksandhu/StockCheck_KotlinEngineers)
 
 
 ### **🌍 COVID-19 Tracker**  
@@ -73,4 +79,4 @@
 
 ---
 
-⭐ **Looking for opportunities in Full-Stack Development & AI-Driven Applications!**  
+⭐ **Looking for opportunities in Application Development & AI-Driven Applications!**  
