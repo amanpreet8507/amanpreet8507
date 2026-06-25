@@ -6,7 +6,7 @@
 🔹 Love working with **MERN stacks, databases, and DevOps**  
 
 ## 🔥 **About Me**
-- 💻 Currently pusuing **Bachelor's of Computer Information Systems** at UFV.  
+- 💻 Currently pursuing **Bachelor's of Computer Information Systems** at UFV.  
 - 📦 Have experience in **software development** (Leafstash, BrainStation).  
 - 🔬 Mentor & Tutor at **Vancouver Community College**, teaching **Python, C++ & Application Development**.  
 - 🌱 Exploring **AI-driven applications & analytics tools** using modern frameworks.  
