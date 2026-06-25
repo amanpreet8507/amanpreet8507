@@ -61,8 +61,7 @@
 > - Implemented real-time updates
 
 🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreet8507/instock-frontend)
-🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreet8507/instock-backend)
-
+🔗 **GitHub Repository:** [InStock Backend]([https://github.com/amanpreet8507/instock-backend)
 
 ### **🌍 COVID-19 Tracker**  
 > **Tech:** JavaScript, GraphQL, ApexCharts  
