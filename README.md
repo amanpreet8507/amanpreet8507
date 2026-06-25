@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Amanpreet Kaur!  
 
-🚀 **Application Developer | Tech Mentor**  
+🚀 **Software Developer | Tech Mentor**  
 🔹 Passionate about building scalable, user-friendly web & mobile applications  
-🔹 Experienced in **React Native, Node.js, TypeScript, Kotlin, C++ & GraphQL**  
+🔹 Experienced in **React.js, Node.js, TypeScript, Python, Django, Kotlin, C++ & GraphQL**  
 🔹 Love working with **MERN stacks, databases, and DevOps**  
 
 ## 🔥 **About Me**
-- 💻 Currently working as **Android Developer** for Stockcheck, working with **Kotlin & Node.js**  
-- 📦 Have experience in **appication development** (Leafstash, BrainStation).  
-- 🔬 Mentor & Tutor at **Vancouver Community College**, teaching **C++ & Application Development**.  
+- 💻 Currently pusuing **Bachelor's of Computer Information Systems** at UFV.  
+- 📦 Have experience in **software development** (Leafstash, BrainStation).  
+- 🔬 Mentor & Tutor at **Vancouver Community College**, teaching **Python, C++ & Application Development**.  
 - 🌱 Exploring **AI-driven applications & analytics tools** using modern frameworks.  
 
 ## 🛠 **Tech Stack & Skills**
@@ -18,6 +18,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B5?style=flat&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -53,12 +55,13 @@
 🔗 **GitHub Repository:** [Chat-With-AI](https://github.com/amanpreet8507/Chat-With-AI)
 
 
-### **📦 StockCheck - Inventory Management System**  
-> **Tech:** Kotlin, Node.js, Express, Git, Android Studio, MongoDB  
-> - Developed a full-stack inventory tracking application  
-> - Implemented role-based authentication & real-time updates  
+### **📦 InStock - Inventory Management Web**  
+> **Tech:** React.js, Node.js, Express, Git, MySQL, Jira  
+> - Developed a full-stack inventory tracking web  
+> - Implemented real-time updates
 
-🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreetksandhu/StockCheck_KotlinEngineers)
+🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreet8507/instock-frontend)
+🔗 **GitHub Repository:** [InStock Frontend](https://github.com/amanpreet8507/instock-backend)
 
 
 ### **🌍 COVID-19 Tracker**  
@@ -75,8 +78,8 @@
 📧 Email: [amanpreet8507@gmail.com](mailto:amanpreet8507@gmail.com)  
 🔗 Portfolio: [amanpreet8507.github.io](https://amanpreet8507.github.io)  
 🐙 GitHub: [github.com/amanpreet8507](https://github.com/amanpreet8507)  
-💼 LinkedIn: [linkedin.com/in/amanpreet-k-software-engineering](https://www.linkedin.com/in/amanpreet-k-software-engineering/)  
+💼 LinkedIn: [linkedin.com/in/amanpreetksandhu](https://www.linkedin.com/in/amanpreetksandhu/)  
 
 ---
 
-⭐ **Looking for opportunities in Application Development & AI-Driven Applications!**  
+⭐ **Looking for opportunities in Software Development & AI-Driven Roles!**  
